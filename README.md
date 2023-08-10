@@ -1,0 +1,2 @@
+# Python_Algorithm_College_Algebra2
+ PORTUGUESE -> Desafio da segunda semana de aula passado pelo professor de algebra para resolver outros problemas com matrizes. Decidi novamente que irei utilizar um algoritmo em python para facilitar o processo. ENGLISH ->  Challenge of the second week of class given by the algebra teacher to solve other problems with matrices. I decided again that I will use a python algorithm to facilitate the process 
